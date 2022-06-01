@@ -135,7 +135,7 @@ httpcore==0.9.1
 httpimport==0.5.18
 httplib2==0.17.4
 httplib2shim==0.0.3
-httpx==0.13.3
+httpx==0.23.0
 humanize==0.5.1
 hyperframe==5.2.0
 hyperopt==0.1.2
